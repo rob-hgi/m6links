@@ -1,0 +1,4 @@
+title: Your Site Title
+baseurl: "/links" # This should match the repository name if your repo is named 'links'
+url: "https://rob-hgi.github.io" # Your GitHub Pages URL
+theme: minima
